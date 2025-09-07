@@ -3,7 +3,7 @@
 
 
 - 🔭 Trabalho atualmente como **Eletricista** e estou em transição para a área de **Tecnologia**.
-- 🐍 Estudando **Python** e exporando o mundo da programação.
+- 🐍 Estudando **Python** e explorando o mundo da programação.
 - 📚 Sempre aprendendo e aberto a novos desafios.
 
 > ⚡️ **Curiosidade**: assim como a elétrica, gosto de entender "os fios por atrás" da programação e como tudo se conecta.
